@@ -1,4 +1,4 @@
-from tkinter import *
+mple@from tkinter import *
 from tkinter import messagebox
 import random
 from random import choice, randint, shuffle
@@ -70,7 +70,7 @@ username_label = Label(text="Email/Username:")
 username_label.grid(row=2, column=0)
 username_entry=Entry(width=50)
 username_entry.grid(row=2, column=1, columnspan=2)
-username_entry.insert(0, "bdc@max.metrea.aero")
+username_entry.insert(0, "example@gmail.com")
 
 password_label = Label(text="Password:")
 password_label.grid(row=3, column=0)
