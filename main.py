@@ -1,4 +1,4 @@
-mple@from tkinter import *
+from tkinter import *
 from tkinter import messagebox
 import random
 from random import choice, randint, shuffle
